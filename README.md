@@ -21,7 +21,7 @@ A React-based social media feed application implementing infinite scrolling. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/social-media-feed.git
+   git clone https://github.com/SarrveshNagarajan/Social-Media-Feed.git
    cd social-media-feed
 
 Install the dependencies:
